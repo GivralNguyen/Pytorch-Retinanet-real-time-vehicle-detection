@@ -1,5 +1,4 @@
-#Installation
-Requirements:
+Installation Requirements:
 PyTorch 1.0 from a nightly release. It will not work with 1.0 nor 1.0.1. Installation instructions can be found in https://pytorch.org/get-started/locally/
 torchvision from master
 cocoapi
